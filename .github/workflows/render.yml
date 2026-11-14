@@ -1,0 +1,98 @@
+name: render
+# Renders a video job (jobs/<name>.zip) on 20 free CPU runners in parallel, then joins the parts
+# and publishes out/<name><suffix>.mp4 on branch render-out.
+# job.json at the zip root: {"frames": 1440, "fps": 24, "mixes": {"": "mix.wav", "-no-music": "mix_nomusic.wav"}}
+# (mixes optional: without it the video is published silent as out/<name>.mp4)
+on:
+  push:
+    branches: [render-farm]
+    paths: ['jobs/*.zip']
+  workflow_dispatch:
+    inputs:
+      job: {description: 'job name (jobs/<name>.zip)', required: true}
+permissions:
+  contents: write
+env:
+  CHUNKS: 20
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      job: ${{ steps.p.outputs.job }}
+      frames: ${{ steps.p.outputs.frames }}
+      fps: ${{ steps.p.outputs.fps }}
+    steps:
+      - uses: actions/checkout@v4
+        with: {fetch-depth: 2}
+      - id: p
+        run: |
+          JOB="${{ github.event.inputs.job }}"
+          if [ -z "$JOB" ]; then JOB=$(git diff --name-only HEAD~1 HEAD -- 'jobs/*.zip' | head -1 | xargs -r basename | sed 's/\.zip$//'); fi
+          [ -n "$JOB" ] || { echo "no job zip in this push"; exit 1; }
+          unzip -p "jobs/$JOB.zip" job.json > job.json
+          cat job.json
+          echo "job=$JOB" >> "$GITHUB_OUTPUT"
+          echo "frames=$(jq -r '.frames' job.json)" >> "$GITHUB_OUTPUT"
+          echo "fps=$(jq -r '.fps // 24' job.json)" >> "$GITHUB_OUTPUT"
+  chunk:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    strategy:
+      fail-fast: true
+      matrix: {i: [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19]}
+    steps:
+      - uses: actions/checkout@v4
+        with: {sparse-checkout: 'jobs/${{ needs.plan.outputs.job }}.zip', sparse-checkout-cone-mode: false}
+      - name: Set up engine
+        run: |
+          mkdir -p w && cd w && unzip -q "../jobs/${{ needs.plan.outputs.job }}.zip"
+          E="$PWD/$(dirname "$(find . -name render.mjs -not -path '*/node_modules/*' | head -1)")"
+          echo "E=$E" >> "$GITHUB_ENV"
+          git clone -q --depth 1 --branch r169 --filter=blob:none --sparse https://github.com/mrdoob/three.js.git /tmp/three
+          (cd /tmp/three && git sparse-checkout set build examples/jsm/postprocessing examples/jsm/shaders examples/jsm/utils examples/jsm/geometries)
+          cd "$E" && mkdir -p node_modules && ln -sfn /tmp/three node_modules/three
+          npm init -y > /dev/null && npm i -s playwright@1 && npx playwright install --with-deps chromium > /dev/null
+          sudo apt-get -qq update && sudo apt-get -qq install -y ffmpeg > /dev/null
+      - name: Render chunk
+        run: |
+          N=${{ needs.plan.outputs.frames }}; F=${{ needs.plan.outputs.fps }}; I=${{ matrix.i }}
+          A=$(( N * I / CHUNKS )); B=$(( N * (I + 1) / CHUNKS ))
+          FROM=$(python3 -c "print($A/$F)"); TO=$(python3 -c "print($B/$F + 0.0001)")
+          echo "frames $A..$B"
+          cd "$E" && GL=swiftshader RES=1080 CRF=10 PRESET=fast node render.mjs video "$GITHUB_WORKSPACE/part$(printf %02d "$I").mp4" "$F" "$FROM" "$TO"
+      - uses: actions/upload-artifact@v4
+        with: {name: 'part-${{ matrix.i }}', path: 'part*.mp4', retention-days: 2}
+  join:
+    needs: [plan, chunk]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: {sparse-checkout: 'jobs/${{ needs.plan.outputs.job }}.zip', sparse-checkout-cone-mode: false}
+      - uses: actions/download-artifact@v4
+        with: {path: parts, merge-multiple: true}
+      - name: Join, encode, mux
+        run: |
+          sudo apt-get -qq update && sudo apt-get -qq install -y ffmpeg > /dev/null
+          JOB=${{ needs.plan.outputs.job }}
+          mkdir -p w "$RUNNER_TEMP/out" && (cd w && unzip -q "../jobs/$JOB.zip")
+          ls parts/*.mp4 | sort | sed "s|^|file '$PWD/|; s|$|'|" > list.txt
+          ffmpeg -v error -y -f concat -safe 0 -i list.txt -c copy master.mp4
+          echo "frames: $(ffprobe -v error -count_frames -select_streams v:0 -show_entries stream=nb_read_frames -of csv=p=0 master.mp4)"
+          ffmpeg -v error -y -i master.mp4 -c:v libx264 -preset slow -crf 15 -profile:v high -pix_fmt yuv420p -movflags +faststart video.mp4
+          jq -r '(.mixes // {"": null}) | to_entries[] | "\(.key)|\(.value // "")"' w/job.json | while IFS='|' read -r SUF MIX; do
+            OUT="$RUNNER_TEMP/out/$JOB$SUF.mp4"
+            if [ -n "$MIX" ]; then
+              ffmpeg -v error -y -i video.mp4 -i "w/$MIX" -map 0:v -map 1:a -c:v copy -af apad,loudnorm=I=-14:TP=-1.5:LRA=11 -ar 44100 -c:a aac -b:a 192k -shortest -movflags +faststart "$OUT"
+            else
+              cp video.mp4 "$OUT"
+            fi
+            echo "$OUT $(ffprobe -v error -show_entries format=duration -of csv=p=0 "$OUT") s"
+          done
+      - name: Publish to render-out
+        run: |
+          git config user.name "render-bot"; git config user.email "render-bot@users.noreply.github.com"
+          git sparse-checkout disable
+          if git fetch -q --depth 1 origin render-out; then git checkout -q -B render-out FETCH_HEAD; else git checkout -q --orphan render-out; git rm -rq --cached . > /dev/null 2>&1 || true; fi
+          mkdir -p out && cp -f "$RUNNER_TEMP"/out/*.mp4 out/
+          git add out/*.mp4 && git commit -qm "render ${{ needs.plan.outputs.job }} (run ${{ github.run_id }})" && git push -q origin HEAD:render-out
