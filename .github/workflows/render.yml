@@ -80,15 +80,17 @@ jobs:
           ffmpeg -v error -y -f concat -safe 0 -i list.txt -c copy master.mp4
           echo "frames: $(ffprobe -v error -count_frames -select_streams v:0 -show_entries stream=nb_read_frames -of csv=p=0 master.mp4)"
           ffmpeg -v error -y -i master.mp4 -c:v libx264 -preset slow -crf 15 -profile:v high -pix_fmt yuv420p -movflags +faststart video.mp4
-          jq -r '(.mixes // {"": null}) | to_entries[] | "\(.key)|\(.value // "")"' w/job.json | while IFS='|' read -r SUF MIX; do
+          # the loop reads from a file (not a pipe) and ffmpeg gets -nostdin, so ffmpeg can't swallow the remaining mixes
+          jq -r '(.mixes // {"": null}) | to_entries[] | "\(.key)|\(.value // "")"' w/job.json > mixes.txt
+          while IFS='|' read -r SUF MIX; do
             OUT="$RUNNER_TEMP/out/$JOB$SUF.mp4"
             if [ -n "$MIX" ]; then
-              ffmpeg -v error -y -i video.mp4 -i "w/$MIX" -map 0:v -map 1:a -c:v copy -af apad,loudnorm=I=-14:TP=-1.5:LRA=11 -ar 44100 -c:a aac -b:a 192k -shortest -movflags +faststart "$OUT"
+              ffmpeg -nostdin -v error -y -i video.mp4 -i "w/$MIX" -map 0:v -map 1:a -c:v copy -af apad,loudnorm=I=-14:TP=-1.5:LRA=11 -ar 44100 -c:a aac -b:a 192k -shortest -movflags +faststart "$OUT"
             else
               cp video.mp4 "$OUT"
             fi
-            echo "$OUT $(ffprobe -v error -show_entries format=duration -of csv=p=0 "$OUT") s"
-          done
+            echo "$OUT $(ffprobe -v error -show_entries format=duration -of csv=p=0 "$OUT" < /dev/null) s"
+          done < mixes.txt
       - name: Publish to render-out
         run: |
           git config user.name "render-bot"; git config user.email "render-bot@users.noreply.github.com"
