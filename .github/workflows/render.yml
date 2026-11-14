@@ -96,11 +96,11 @@ jobs:
           if git fetch -q --depth 1 origin render-out; then git checkout -q -B render-out FETCH_HEAD; else git checkout -q --orphan render-out; git rm -rq --cached . > /dev/null 2>&1 || true; fi
           # Every render also goes to the "renders" release (no 100 MB git limit):
           # https://github.com/<repo>/releases/download/renders/<name>.mp4
-          gh release view renders > /dev/null 2>&1 || gh release create renders --title "Renders" --notes "Rendered videos" > /dev/null
+          gh release view renders > /dev/null 2>&1 || gh release create renders --title "Renders" --notes "Rendered videos" > /dev/null 2>&1 || true
           gh release upload renders "$RUNNER_TEMP"/out/*.mp4 --clobber
           # Files under 95 MB are also committed to branch render-out.
           mkdir -p out
           for f in "$RUNNER_TEMP"/out/*.mp4; do [ "$(stat -c %s "$f")" -lt 99614720 ] && cp -f "$f" out/; done
-          git add out/ && git commit -qm "render ${{ needs.plan.outputs.job }} (run ${{ github.run_id }})" && git push -q origin HEAD:render-out || echo "nothing committed (files too large or unchanged)"
+          git add out/ && git commit -qm "render ${{ needs.plan.outputs.job }} (run ${{ github.run_id }})" && { git push -q origin HEAD:render-out || { git pull -q --rebase origin render-out && git push -q origin HEAD:render-out; }; } || echo "nothing committed (files too large or unchanged)"
         env:
           GH_TOKEN: ${{ github.token }}
