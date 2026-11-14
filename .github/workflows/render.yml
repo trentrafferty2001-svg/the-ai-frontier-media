@@ -79,7 +79,7 @@ jobs:
           ls parts/*.mp4 | sort | sed "s|^|file '$PWD/|; s|$|'|" > list.txt
           ffmpeg -v error -y -f concat -safe 0 -i list.txt -c copy master.mp4
           echo "frames: $(ffprobe -v error -count_frames -select_streams v:0 -show_entries stream=nb_read_frames -of csv=p=0 master.mp4)"
-          ffmpeg -v error -y -i master.mp4 -c:v libx264 -preset slow -crf 15 -profile:v high -pix_fmt yuv420p -movflags +faststart video.mp4
+          ffmpeg -v error -y -i master.mp4 -c:v libx264 -preset slow -crf 15 -maxrate 12M -bufsize 24M -profile:v high -pix_fmt yuv420p -movflags +faststart video.mp4
           # the loop reads from a file (not a pipe) and ffmpeg gets -nostdin, so ffmpeg can't swallow the remaining mixes
           jq -r '(.mixes // {"": null}) | to_entries[] | "\(.key)|\(.value // "")"' w/job.json > mixes.txt
           while IFS='|' read -r SUF MIX; do
