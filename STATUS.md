@@ -15,15 +15,16 @@ Roman hypocaust | roman-hypocaust-v3.mp4 | 2026-11-24 | awaiting check
 Persian windcatcher | persian-windcatcher-v3.mp4 | 2026-11-25 | awaiting check
 Inca terraces | inca-terraces-v3.mp4 | 2026-11-26 | awaiting check
 Shaduf | shaduf-v3.mp4 | 2026-11-27 | awaiting check
-Roman odometer | roman-odometer-v3.mp4 | 2026-11-28 | awaiting check
+Roman odometer | roman-odometer-v4.mp4 | 2026-11-28 | awaiting check
 Nilometer | nilometer-v3.mp4 | 2026-11-29 | awaiting check
-Stepwell | stepwell-v3.mp4 | 2026-11-30 | awaiting check
-Polynesian wayfinding | polynesian-wayfinding-v3.mp4 | 2026-12-01 | rendered
+Stepwell | stepwell-v4.mp4 | 2026-11-30 | awaiting check
+Polynesian wayfinding | polynesian-wayfinding-v3.mp4 | 2026-12-01 | scheduled
 
-## Notes (15 Nov 09:30)
-- "scheduled" lines were scheduled in Metricool by the previous scheduling chat (14 Nov, 23:08-01:16).
-- Antikythera: the 16 Nov Metricool post was created before v4 existed, so it most likely carries v3. Needs a swap to v4 once approved.
-- Metricool also holds Polynesian on 2026-11-17 18:00 (post 428359545), which clashes with the planned 1 Dec date and the 17 Nov Inca rope bridges post. Not changed yet: waiting for the user.
-- Metricool drafts exist in pairs for 25-28 Nov (old 4218xxxxx and newer 4271xxxxx); none for 22-23 Nov.
-- Polynesian v3 and Antikythera v4 are being re-encoded at 12 Mbit/s (originals 140 / 109 MB are over GitHub's 100 MB file limit); the farm adds them to out/ when done.
-- Every file here passed ffmpeg blackdetect (0 black segments). The Nov remakes are 54-64 s long; the 40-45 s rule applies from December.
+## Notes (updated 15 Nov 10:05)
+- 15-21 Nov "scheduled" posts were set up in Metricool by the previous scheduling chat (14 Nov); this chat owns them from 15 Nov.
+- Antikythera: 16 Nov Metricool post now carries antikythera-mechanism-v4 (12 Mbit/s, 78 MB); user approved v4 (15 Nov 09:30).
+- Polynesian: Metricool post moved from 17 Nov to 1 Dec 18:00 (user, 15 Nov) and now carries the 12 Mbit/s v3 (95 MB). 17 Nov is the user's Inca rope bridges post.
+- Odometer v4 (historians spaced apart, facing each other) and Stepwell v4 (zigzag walls at 18-19 s, water rising over the lower steps at 20-24 s) per checker fix list 15 Nov.
+- Metricool still holds two drafts each for 25-28 Nov (old 421862126/421862300/421862584/421862638 and newer 4271896xx); drafts never publish. Metricool's tools here can't delete posts, so the old ones need deleting in the app. On approval, the newer draft per day gets the render and is scheduled.
+- No Metricool drafts exist for 22-23 Nov (chinampas, elephant clock); they get new posts on approval.
+- Every file in out/ passed ffmpeg blackdetect (0 black segments). Nov remakes are 54-66 s; the 40-45 s rule applies from December.
