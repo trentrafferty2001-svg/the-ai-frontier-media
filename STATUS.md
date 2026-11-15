@@ -20,24 +20,24 @@ Roman odometer | roman-odometer-v4.mp4 | 2026-11-28 | scheduled
 Nilometer | nilometer-v3.mp4 | 2026-11-29 | scheduled
 Stepwell | stepwell-v4.mp4 | 2026-11-30 | scheduled
 Polynesian wayfinding | polynesian-wayfinding-v3.mp4 | 2026-12-01 | scheduled
-Sticky-rice mortar | sticky-rice-mortar-v1.mp4 | 2026-12-02 | awaiting check
-Lycurgus Cup | lycurgus-cup-v1.mp4 | 2026-12-04 | awaiting check
-Dujiangyan | dujiangyan-v2.mp4 | 2026-12-07 | awaiting check
-Inca quipu | inca-quipu-v1.mp4 | 2026-12-09 | awaiting check
-Unfinished obelisk of Aswan | unfinished-obelisk-v2.mp4 | 2026-12-11 | awaiting check
-Göbekli Tepe | gobekli-tepe-v1.mp4 | 2026-12-14 | awaiting check
-Greek fire | greek-fire-v3.mp4 | 2026-12-16 | awaiting check
-Tower of the Winds | tower-of-the-winds-v2.mp4 | 2026-12-18 | awaiting check
-Pont du Gard | pont-du-gard-v1.mp4 | 2026-12-21 | awaiting check
-Terracotta Army | terracotta-army-v2.mp4 | 2026-12-23 | awaiting check
-Petra water system | petra-water-v1.mp4 | 2026-12-25 | awaiting check
-Roman roads | roman-roads-v1.mp4 | 2026-12-28 | awaiting check
-Claw of Archimedes | claw-of-archimedes-v1.mp4 | 2026-12-30 | awaiting check
-Mohenjo-daro drains | mohenjo-daro-drains-v1.mp4 | 2027-01-01 | awaiting check
-Roman treadwheel crane | treadwheel-crane-v1.mp4 | 2027-01-04 | awaiting check
-Diolkos | diolkos-v3.mp4 | 2027-01-06 | awaiting check
-Lighthouse of Alexandria | lighthouse-of-alexandria-v1.mp4 | 2027-01-08 | awaiting check
-Water organ (hydraulis) | water-organ-v1.mp4 | 2027-01-11 | awaiting check
+Sticky-rice mortar | sticky-rice-mortar-v1.mp4 | 2026-12-02 | scheduled (Metricool 429027509, 18:00)
+Lycurgus Cup | lycurgus-cup-v1.mp4 | 2026-12-04 | scheduled (Metricool 429027556, 18:00)
+Dujiangyan | dujiangyan-v2.mp4 | 2026-12-07 | scheduled (Metricool 429028860, 18:00)
+Inca quipu | inca-quipu-v1.mp4 | 2026-12-09 | scheduled (Metricool 429028931, 18:00)
+Unfinished obelisk of Aswan | unfinished-obelisk-v2.mp4 | 2026-12-11 | scheduled (Metricool 429028980, 18:00)
+Göbekli Tepe | gobekli-tepe-v1.mp4 | 2026-12-14 | scheduled (Metricool 429029039, 18:00)
+Greek fire | greek-fire-v3.mp4 | 2026-12-16 | scheduled (Metricool 429029100, 18:00)
+Tower of the Winds | tower-of-the-winds-v2.mp4 | 2026-12-18 | scheduled (Metricool 429029151, 18:00)
+Pont du Gard | pont-du-gard-v1.mp4 | 2026-12-21 | scheduled (Metricool 429029192, 18:00)
+Terracotta Army | terracotta-army-v2.mp4 | 2026-12-23 | scheduled (Metricool 429029222, 18:00)
+Petra water system | petra-water-v1.mp4 | 2026-12-25 | scheduled (Metricool 429029268, 18:00)
+Roman roads | roman-roads-v1.mp4 | 2026-12-28 | scheduled (Metricool 429029315, 18:00)
+Claw of Archimedes | claw-of-archimedes-v1.mp4 | 2026-12-30 | scheduled (Metricool 429029382, 18:00)
+Mohenjo-daro drains | mohenjo-daro-drains-v1.mp4 | 2027-01-01 | scheduled (Metricool 429029421, 18:00)
+Roman treadwheel crane | treadwheel-crane-v1.mp4 | 2027-01-04 | scheduled (Metricool 429029458, 18:00)
+Diolkos | diolkos-v3.mp4 | 2027-01-06 | scheduled (Metricool 429029519, 18:00)
+Lighthouse of Alexandria | lighthouse-of-alexandria-v1.mp4 | 2027-01-08 | scheduled (Metricool 429029574, 18:00)
+Water organ (hydraulis) | water-organ-v1.mp4 | 2027-01-11 | scheduled (Metricool 429029646, 18:00)
 
 ## Notes (updated 15 Nov 11:10)
 - 15 Nov 10:45: user approved scheduling for 22-30 Nov. Scheduled in Metricool (IG, TikTok, YouTube, 18:00): chinampas 428699441 (new), elephant clock 428699465 (new), hypocaust 428699491, windcatcher 428699520, Inca terraces 428699546, shaduf 428699576, odometer v4 428699604, nilometer 428699640, stepwell v4 428699666.
@@ -71,3 +71,4 @@ Water organ (hydraulis) | water-organ-v1.mp4 | 2027-01-11 | awaiting check
 - water-organ-v1 (15 Nov): 40.4 s, 1080x1920, blackdetect clean.
 - diolkos-v2 rendered but NOT for posting (speckle noise on the sea in the route shot); v3 rendering.
 - diolkos-v3 (15 Nov): 41.3 s, 1080x1920, blackdetect clean.
+- 15 Nov 18:18: user approved all; 18 videos scheduled in Metricool 7961775 (IG Reel + TikTok + YT Short, 18:00 SAST), 2 Dec - 11 Jan.
