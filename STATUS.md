@@ -26,9 +26,9 @@ Dujiangyan | dujiangyan-v2.mp4 | 2026-12-07 | awaiting check
 Inca quipu | inca-quipu-v1.mp4 | 2026-12-09 | awaiting check
 Unfinished obelisk of Aswan | unfinished-obelisk-v2.mp4 | 2026-12-11 | awaiting check
 Göbekli Tepe | gobekli-tepe-v1.mp4 | 2026-12-14 | awaiting check
-Greek fire | greek-fire-v2.mp4 | 2026-12-16 | rendering
+Greek fire | greek-fire-v3.mp4 | 2026-12-16 | rendering
 Tower of the Winds | tower-of-the-winds-v2.mp4 | 2026-12-18 | rendering
-Pont du Gard | pont-du-gard-v1.mp4 | 2026-12-21 | rendering
+Pont du Gard | pont-du-gard-v1.mp4 | 2026-12-21 | awaiting check
 Terracotta Army | terracotta-army-v1.mp4 | 2026-12-23 | rendering
 Petra water system | petra-water-v1.mp4 | 2026-12-25 | rendering
 Roman roads | roman-roads-v1.mp4 | 2026-12-28 | rendering
@@ -49,3 +49,5 @@ Roman roads | roman-roads-v1.mp4 | 2026-12-28 | rendering
 - greek-fire-v1 rendered but NOT for posting (hook fire blew out); v2 rendering.
 - unfinished-obelisk-v2 (15 Nov): 42.3 s, 1080x1920, blackdetect clean. Hook: the obelisk standing upright.
 - tower-of-the-winds-v1 rendered but NOT for posting (camera crowded the roof on the vane and closing shots); v2 rendering.
+- greek-fire-v2 rendered but NOT for posting (hook fire too soft to read); v3 has clear flames on the water.
+- pont-du-gard-v1 (15 Nov): 41.5 s, 1080x1920, blackdetect clean.
