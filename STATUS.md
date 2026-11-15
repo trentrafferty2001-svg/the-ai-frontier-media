@@ -24,11 +24,13 @@ Sticky-rice mortar | sticky-rice-mortar-v1.mp4 | 2026-12-02 | awaiting check
 Lycurgus Cup | lycurgus-cup-v1.mp4 | 2026-12-04 | awaiting check
 Dujiangyan | dujiangyan-v2.mp4 | 2026-12-07 | awaiting check
 Inca quipu | inca-quipu-v1.mp4 | 2026-12-09 | awaiting check
-Unfinished obelisk of Aswan | unfinished-obelisk-v2.mp4 | 2026-12-11 | rendering
+Unfinished obelisk of Aswan | unfinished-obelisk-v2.mp4 | 2026-12-11 | awaiting check
 Göbekli Tepe | gobekli-tepe-v1.mp4 | 2026-12-14 | awaiting check
 Greek fire | greek-fire-v2.mp4 | 2026-12-16 | rendering
-Tower of the Winds | tower-of-the-winds-v1.mp4 | 2026-12-18 | rendering
+Tower of the Winds | tower-of-the-winds-v2.mp4 | 2026-12-18 | rendering
 Pont du Gard | pont-du-gard-v1.mp4 | 2026-12-21 | rendering
+Terracotta Army | terracotta-army-v1.mp4 | 2026-12-23 | rendering
+Petra water system | petra-water-v1.mp4 | 2026-12-25 | rendering
 
 ## Notes (updated 15 Nov 11:10)
 - 15 Nov 10:45: user approved scheduling for 22-30 Nov. Scheduled in Metricool (IG, TikTok, YouTube, 18:00): chinampas 428699441 (new), elephant clock 428699465 (new), hypocaust 428699491, windcatcher 428699520, Inca terraces 428699546, shaduf 428699576, odometer v4 428699604, nilometer 428699640, stepwell v4 428699666.
@@ -44,3 +46,5 @@ Pont du Gard | pont-du-gard-v1.mp4 | 2026-12-21 | rendering
 - unfinished-obelisk-v1 rendered but NOT for posting (weak hook); v2 opens on the obelisk standing upright.
 - gobekli-tepe-v1 (15 Nov 13:00): 43.3 s, 1080x1920, blackdetect clean.
 - greek-fire-v1 rendered but NOT for posting (hook fire blew out); v2 rendering.
+- unfinished-obelisk-v2 (15 Nov): 42.3 s, 1080x1920, blackdetect clean. Hook: the obelisk standing upright.
+- tower-of-the-winds-v1 rendered but NOT for posting (camera crowded the roof on the vane and closing shots); v2 rendering.
