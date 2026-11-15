@@ -20,24 +20,24 @@ Roman odometer | roman-odometer-v4.mp4 | 2026-11-28 | scheduled
 Nilometer | nilometer-v3.mp4 | 2026-11-29 | scheduled
 Stepwell | stepwell-v4.mp4 | 2026-11-30 | scheduled
 Polynesian wayfinding | polynesian-wayfinding-v3.mp4 | 2026-12-01 | scheduled
-Sticky-rice mortar | sticky-rice-mortar-v1.mp4 | 2026-12-02 | scheduled (Metricool 429027509, 18:00)
-Lycurgus Cup | lycurgus-cup-v1.mp4 | 2026-12-04 | scheduled (Metricool 429027556, 18:00)
-Dujiangyan | dujiangyan-v2.mp4 | 2026-12-07 | scheduled (Metricool 429028860, 18:00)
-Inca quipu | inca-quipu-v1.mp4 | 2026-12-09 | scheduled (Metricool 429028931, 18:00)
-Unfinished obelisk of Aswan | unfinished-obelisk-v2.mp4 | 2026-12-11 | scheduled (Metricool 429028980, 18:00)
-Göbekli Tepe | gobekli-tepe-v1.mp4 | 2026-12-14 | scheduled (Metricool 429029039, 18:00)
-Greek fire | greek-fire-v3.mp4 | 2026-12-16 | scheduled (Metricool 429029100, 18:00)
-Tower of the Winds | tower-of-the-winds-v2.mp4 | 2026-12-18 | scheduled (Metricool 429029151, 18:00)
-Pont du Gard | pont-du-gard-v1.mp4 | 2026-12-21 | scheduled (Metricool 429029192, 18:00)
-Terracotta Army | terracotta-army-v2.mp4 | 2026-12-23 | scheduled (Metricool 429029222, 18:00)
-Petra water system | petra-water-v1.mp4 | 2026-12-25 | scheduled (Metricool 429029268, 18:00)
-Roman roads | roman-roads-v1.mp4 | 2026-12-28 | scheduled (Metricool 429029315, 18:00)
-Claw of Archimedes | claw-of-archimedes-v1.mp4 | 2026-12-30 | scheduled (Metricool 429029382, 18:00)
-Mohenjo-daro drains | mohenjo-daro-drains-v1.mp4 | 2027-01-01 | scheduled (Metricool 429029421, 18:00)
-Roman treadwheel crane | treadwheel-crane-v1.mp4 | 2027-01-04 | scheduled (Metricool 429029458, 18:00)
-Diolkos | diolkos-v3.mp4 | 2027-01-06 | scheduled (Metricool 429029519, 18:00)
-Lighthouse of Alexandria | lighthouse-of-alexandria-v1.mp4 | 2027-01-08 | scheduled (Metricool 429029574, 18:00)
-Water organ (hydraulis) | water-organ-v1.mp4 | 2027-01-11 | scheduled (Metricool 429029646, 18:00)
+Sticky-rice mortar | sticky-rice-mortar-v1.mp4 | 2026-12-02 | scheduled (Metricool 429366882, 18:00, thumbnail)
+Lycurgus Cup | lycurgus-cup-v1.mp4 | 2026-12-04 | scheduled (Metricool 429366895, 18:00, thumbnail)
+Dujiangyan | dujiangyan-v2.mp4 | 2026-12-07 | scheduled (Metricool 429366925, 18:00, thumbnail)
+Inca quipu | inca-quipu-v1.mp4 | 2026-12-09 | scheduled (Metricool 429366938, 18:00, thumbnail)
+Unfinished obelisk of Aswan | unfinished-obelisk-v2.mp4 | 2026-12-11 | scheduled (Metricool 429366965, 18:00, thumbnail)
+Göbekli Tepe | gobekli-tepe-v1.mp4 | 2026-12-14 | scheduled (Metricool 429366977, 18:00, thumbnail)
+Greek fire | greek-fire-v3.mp4 | 2026-12-16 | scheduled (Metricool 429368526, 18:00, thumbnail)
+Tower of the Winds | tower-of-the-winds-v2.mp4 | 2026-12-18 | scheduled (Metricool 429368538, 18:00, thumbnail)
+Pont du Gard | pont-du-gard-v1.mp4 | 2026-12-21 | scheduled (Metricool 429368547, 18:00, thumbnail)
+Terracotta Army | terracotta-army-v2.mp4 | 2026-12-23 | scheduled (Metricool 429368565, 18:00, thumbnail)
+Petra water system | petra-water-v1.mp4 | 2026-12-25 | scheduled (Metricool 429368576, 18:00, thumbnail)
+Roman roads | roman-roads-v1.mp4 | 2026-12-28 | scheduled (Metricool 429368586, 18:00, thumbnail)
+Claw of Archimedes | claw-of-archimedes-v1.mp4 | 2026-12-30 | scheduled (Metricool 429369017, 18:00, thumbnail)
+Mohenjo-daro drains | mohenjo-daro-drains-v1.mp4 | 2027-01-01 | scheduled (Metricool 429369025, 18:00, thumbnail)
+Roman treadwheel crane | treadwheel-crane-v1.mp4 | 2027-01-04 | scheduled (Metricool 429369042, 18:00, thumbnail)
+Diolkos | diolkos-v3.mp4 | 2027-01-06 | scheduled (Metricool 429369057, 18:00, thumbnail)
+Lighthouse of Alexandria | lighthouse-of-alexandria-v1.mp4 | 2027-01-08 | scheduled (Metricool 429369065, 18:00, thumbnail)
+Water organ (hydraulis) | water-organ-v1.mp4 | 2027-01-11 | scheduled (Metricool 429369075, 18:00, thumbnail)
 
 ## Notes (updated 15 Nov 11:10)
 - 15 Nov 10:45: user approved scheduling for 22-30 Nov. Scheduled in Metricool (IG, TikTok, YouTube, 18:00): chinampas 428699441 (new), elephant clock 428699465 (new), hypocaust 428699491, windcatcher 428699520, Inca terraces 428699546, shaduf 428699576, odometer v4 428699604, nilometer 428699640, stepwell v4 428699666.
@@ -72,3 +72,5 @@ Water organ (hydraulis) | water-organ-v1.mp4 | 2027-01-11 | scheduled (Metricool
 - diolkos-v2 rendered but NOT for posting (speckle noise on the sea in the route shot); v3 rendering.
 - diolkos-v3 (15 Nov): 41.3 s, 1080x1920, blackdetect clean.
 - 15 Nov 18:18: user approved all; 18 videos scheduled in Metricool 7961775 (IG Reel + TikTok + YT Short, 18:00 SAST), 2 Dec - 11 Jan.
+
+- 16 Nov 00:45: every scheduled post (34, 16 Nov - 11 Jan) now has a topic thumbnail (thumbs/ancient-<date>.jpg, set as videoThumbnailUrl). Updating changed the Metricool ids; the ids above are the new ones. Full date->id map: thumbs/metricool-ids.json.
