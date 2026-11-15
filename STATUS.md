@@ -35,7 +35,7 @@ Roman roads | roman-roads-v1.mp4 | 2026-12-28 | awaiting check
 Claw of Archimedes | claw-of-archimedes-v1.mp4 | 2026-12-30 | awaiting check
 Mohenjo-daro drains | mohenjo-daro-drains-v1.mp4 | 2027-01-01 | awaiting check
 Roman treadwheel crane | treadwheel-crane-v1.mp4 | 2027-01-04 | awaiting check
-Diolkos | diolkos-v3.mp4 | 2027-01-06 | rendering
+Diolkos | diolkos-v3.mp4 | 2027-01-06 | awaiting check
 Lighthouse of Alexandria | lighthouse-of-alexandria-v1.mp4 | 2027-01-08 | awaiting check
 Water organ (hydraulis) | water-organ-v1.mp4 | 2027-01-11 | awaiting check
 
@@ -70,3 +70,4 @@ Water organ (hydraulis) | water-organ-v1.mp4 | 2027-01-11 | awaiting check
 - lighthouse-of-alexandria-v1 (15 Nov): 41.9 s, 1080x1920, blackdetect clean.
 - water-organ-v1 (15 Nov): 40.4 s, 1080x1920, blackdetect clean.
 - diolkos-v2 rendered but NOT for posting (speckle noise on the sea in the route shot); v3 rendering.
+- diolkos-v3 (15 Nov): 41.3 s, 1080x1920, blackdetect clean.
