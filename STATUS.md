@@ -34,6 +34,7 @@ Petra water system | petra-water-v1.mp4 | 2026-12-25 | rendering
 Roman roads | roman-roads-v1.mp4 | 2026-12-28 | rendering
 Claw of Archimedes | claw-of-archimedes-v1.mp4 | 2026-12-30 | rendering
 Mohenjo-daro drains | mohenjo-daro-drains-v1.mp4 | 2027-01-01 | rendering
+Roman treadwheel crane | treadwheel-crane-v1.mp4 | 2027-01-04 | rendering
 
 ## Notes (updated 15 Nov 11:10)
 - 15 Nov 10:45: user approved scheduling for 22-30 Nov. Scheduled in Metricool (IG, TikTok, YouTube, 18:00): chinampas 428699441 (new), elephant clock 428699465 (new), hypocaust 428699491, windcatcher 428699520, Inca terraces 428699546, shaduf 428699576, odometer v4 428699604, nilometer 428699640, stepwell v4 428699666.
