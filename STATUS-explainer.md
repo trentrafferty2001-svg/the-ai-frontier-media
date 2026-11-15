@@ -12,3 +12,4 @@
 | Tunnel boring machine | out/explainer/tunnel-boring-machine-v1.mp4 | - | superseded by v2 (same picture; louder reveal, quieter grinding bed) |
 | Woodpecker | out/explainer/woodpecker-v1.mp4 | Fri 4 Dec 2026 | awaiting approval (earshot launch-grade, no black frames, 43.2 s) |
 | GPS | out/explainer/gps-v1.mp4 | Mon 7 Dec 2026 | awaiting approval (earshot launch-grade, no black frames, 43.4 s) |
+| Falkirk Wheel | out/explainer/falkirk-wheel-v1.mp4 | Tue 8 Dec 2026 | awaiting approval (earshot launch-grade, no black frames, 43.3 s) |
