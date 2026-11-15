@@ -31,7 +31,7 @@ Tower of the Winds | tower-of-the-winds-v2.mp4 | 2026-12-18 | awaiting check
 Pont du Gard | pont-du-gard-v1.mp4 | 2026-12-21 | awaiting check
 Terracotta Army | terracotta-army-v2.mp4 | 2026-12-23 | rendering
 Petra water system | petra-water-v1.mp4 | 2026-12-25 | awaiting check
-Roman roads | roman-roads-v1.mp4 | 2026-12-28 | rendering
+Roman roads | roman-roads-v1.mp4 | 2026-12-28 | awaiting check
 Claw of Archimedes | claw-of-archimedes-v1.mp4 | 2026-12-30 | rendering
 Mohenjo-daro drains | mohenjo-daro-drains-v1.mp4 | 2027-01-01 | rendering
 Roman treadwheel crane | treadwheel-crane-v1.mp4 | 2027-01-04 | rendering
@@ -61,3 +61,4 @@ Water organ (hydraulis) | water-organ-v1.mp4 | 2027-01-11 | rendering
 - petra-water-v1 (15 Nov): 40.8 s, 1080x1920, blackdetect clean.
 - tower-of-the-winds-v2 (15 Nov): 43.0 s, 1080x1920, blackdetect clean.
 - greek-fire-v3 (15 Nov): 41.3 s, 1080x1920, blackdetect clean. Hook: clear flames on the water.
+- roman-roads-v1 (15 Nov): 42.2 s, 1080x1920, blackdetect clean.
