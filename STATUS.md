@@ -26,7 +26,7 @@ Dujiangyan | dujiangyan-v2.mp4 | 2026-12-07 | awaiting check
 Inca quipu | inca-quipu-v1.mp4 | 2026-12-09 | awaiting check
 Unfinished obelisk of Aswan | unfinished-obelisk-v2.mp4 | 2026-12-11 | awaiting check
 Göbekli Tepe | gobekli-tepe-v1.mp4 | 2026-12-14 | awaiting check
-Greek fire | greek-fire-v3.mp4 | 2026-12-16 | rendering
+Greek fire | greek-fire-v3.mp4 | 2026-12-16 | awaiting check
 Tower of the Winds | tower-of-the-winds-v2.mp4 | 2026-12-18 | awaiting check
 Pont du Gard | pont-du-gard-v1.mp4 | 2026-12-21 | awaiting check
 Terracotta Army | terracotta-army-v2.mp4 | 2026-12-23 | rendering
@@ -60,3 +60,4 @@ Water organ (hydraulis) | water-organ-v1.mp4 | 2027-01-11 | rendering
 - terracotta-army-v1 rendered but NOT for posting (weapons looked like they floated in the dark); v2 rendering.
 - petra-water-v1 (15 Nov): 40.8 s, 1080x1920, blackdetect clean.
 - tower-of-the-winds-v2 (15 Nov): 43.0 s, 1080x1920, blackdetect clean.
+- greek-fire-v3 (15 Nov): 41.3 s, 1080x1920, blackdetect clean. Hook: clear flames on the water.
