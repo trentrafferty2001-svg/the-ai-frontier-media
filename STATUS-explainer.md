@@ -14,4 +14,6 @@
 | GPS | out/explainer/gps-v2.mp4 (= gps-v1 + topic cover card) | Mon 7 Dec 2026 | APPROVED 15 Nov, booking in Buffer as slots free (earshot launch-grade, no black frames, 43.4 s) |
 | Falkirk Wheel | out/explainer/falkirk-wheel-v2.mp4 (= falkirk-wheel-v1 + topic cover card) | Tue 8 Dec 2026 | APPROVED 15 Nov, booking in Buffer as slots free (earshot launch-grade, no black frames, 43.3 s) |
 | How a scab forms | out/explainer/scab-v2.mp4 (= scab-v1 + topic cover card) | Wed 9 Dec 2026 | APPROVED 15 Nov, booking in Buffer as slots free (earshot launch-grade, no black frames, 43.4 s) |
-| Hummingbirds hover | out/explainer/hummingbird-v1.mp4 | - | superseded: caption 'on the way back too' clipped at the frame edge; v2 rendering |
+| Hummingbirds hover | out/explainer/hummingbird-v1.mp4 | - | superseded: caption 'on the way back too' clipped at the frame edge |
+| Hummingbirds hover | out/explainer/hummingbird-v2.mp4 | - | superseded by v3 (same video + topic cover card) |
+| Hummingbirds hover | out/explainer/hummingbird-v3.mp4 | Thu 10 Dec 17:00 | awaiting approval (QC passed: 43.7 s, no black frames, earshot 0 major) |
