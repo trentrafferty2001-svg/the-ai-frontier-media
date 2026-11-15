@@ -5,26 +5,25 @@ Status values: rendered / awaiting check / approved / scheduled / posted. Times 
 
 Persian ice houses | persian-ice-houses-v3.mp4 | 2026-11-15 | scheduled
 Antikythera mechanism | antikythera-mechanism-v4.mp4 | 2026-11-16 | scheduled
+Inca rope bridges | inca-rope-bridges-v2.mp4 | 2026-11-17 | rendering
 Zhang Heng seismoscope | zhang-heng-seismoscope-v3.mp4 | 2026-11-18 | scheduled
 Viking navigation | viking-navigation-v3.mp4 | 2026-11-19 | scheduled
 Heron temple doors | heron-temple-doors-v3.mp4 | 2026-11-20 | scheduled
 Persian qanat | persian-qanat-v3.mp4 | 2026-11-21 | scheduled
-Chinampas | chinampas-v3.mp4 | 2026-11-22 | awaiting check
-Elephant clock | elephant-clock-v3.mp4 | 2026-11-23 | awaiting check
-Roman hypocaust | roman-hypocaust-v3.mp4 | 2026-11-24 | awaiting check
-Persian windcatcher | persian-windcatcher-v3.mp4 | 2026-11-25 | awaiting check
-Inca terraces | inca-terraces-v3.mp4 | 2026-11-26 | awaiting check
-Shaduf | shaduf-v3.mp4 | 2026-11-27 | awaiting check
-Roman odometer | roman-odometer-v4.mp4 | 2026-11-28 | awaiting check
-Nilometer | nilometer-v3.mp4 | 2026-11-29 | awaiting check
-Stepwell | stepwell-v4.mp4 | 2026-11-30 | awaiting check
+Chinampas | chinampas-v3.mp4 | 2026-11-22 | scheduled
+Elephant clock | elephant-clock-v3.mp4 | 2026-11-23 | scheduled
+Roman hypocaust | roman-hypocaust-v3.mp4 | 2026-11-24 | scheduled
+Persian windcatcher | persian-windcatcher-v3.mp4 | 2026-11-25 | scheduled
+Inca terraces | inca-terraces-v3.mp4 | 2026-11-26 | scheduled
+Shaduf | shaduf-v3.mp4 | 2026-11-27 | scheduled
+Roman odometer | roman-odometer-v4.mp4 | 2026-11-28 | scheduled
+Nilometer | nilometer-v3.mp4 | 2026-11-29 | scheduled
+Stepwell | stepwell-v4.mp4 | 2026-11-30 | scheduled
 Polynesian wayfinding | polynesian-wayfinding-v3.mp4 | 2026-12-01 | scheduled
 
-## Notes (updated 15 Nov 10:05)
-- 15-21 Nov "scheduled" posts were set up in Metricool by the previous scheduling chat (14 Nov); this chat owns them from 15 Nov.
-- Antikythera: 16 Nov Metricool post now carries antikythera-mechanism-v4 (12 Mbit/s, 78 MB); user approved v4 (15 Nov 09:30).
-- Polynesian: Metricool post moved from 17 Nov to 1 Dec 18:00 (user, 15 Nov) and now carries the 12 Mbit/s v3 (95 MB). 17 Nov is the user's Inca rope bridges post.
-- Odometer v4 (historians spaced apart, facing each other) and Stepwell v4 (zigzag walls at 18-19 s, water rising over the lower steps at 20-24 s) per checker fix list 15 Nov.
-- Metricool still holds two drafts each for 25-28 Nov (old 421862126/421862300/421862584/421862638 and newer 4271896xx); drafts never publish. Metricool's tools here can't delete posts, so the old ones need deleting in the app. On approval, the newer draft per day gets the render and is scheduled.
-- No Metricool drafts exist for 22-23 Nov (chinampas, elephant clock); they get new posts on approval.
-- Every file in out/ passed ffmpeg blackdetect (0 black segments). Nov remakes are 54-66 s; the 40-45 s rule applies from December.
+## Notes (updated 15 Nov 11:10)
+- 15 Nov 10:45: user approved scheduling for 22-30 Nov. Scheduled in Metricool (IG, TikTok, YouTube, 18:00): chinampas 428699441 (new), elephant clock 428699465 (new), hypocaust 428699491, windcatcher 428699520, Inca terraces 428699546, shaduf 428699576, odometer v4 428699604, nilometer 428699640, stepwell v4 428699666.
+- Old duplicate Metricool drafts for 25-28 Nov (421862126, 421862300, 421862584, 421862638) are still drafts (never publish); the Metricool tools here cannot delete, so the user deletes them in the app.
+- Inca rope bridges (17 Nov): never had a remake or a Metricool post (old notes said the user posts it by hand). Re-rendering as v2 with the current engine (no black flash, cable shot reframed); needs the user's approval before it is scheduled.
+- Antikythera 16 Nov post carries v4; Polynesian moved to 1 Dec (both 15 Nov).
+- Every file in out/ passed ffmpeg blackdetect. Nov remakes are 54-66 s; the 40-45 s rule applies from December.
