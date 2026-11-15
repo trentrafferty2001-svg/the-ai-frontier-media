@@ -4,22 +4,22 @@ One line per video: topic | file name | planned post date | status
 Status values: rendered / awaiting check / approved / scheduled / posted. Times are 18:00 Africa/Johannesburg.
 
 Persian ice houses | persian-ice-houses-v3.mp4 | 2026-11-15 | scheduled
-Antikythera mechanism | antikythera-mechanism-v4.mp4 | 2026-11-16 | scheduled
-Inca rope bridges | inca-rope-bridges-v2.mp4 | 2026-11-17 | scheduled
-Zhang Heng seismoscope | zhang-heng-seismoscope-v3.mp4 | 2026-11-18 | scheduled
-Viking navigation | viking-navigation-v3.mp4 | 2026-11-19 | scheduled
-Heron temple doors | heron-temple-doors-v3.mp4 | 2026-11-20 | scheduled
-Persian qanat | persian-qanat-v3.mp4 | 2026-11-21 | scheduled
-Chinampas | chinampas-v3.mp4 | 2026-11-22 | scheduled
-Elephant clock | elephant-clock-v3.mp4 | 2026-11-23 | scheduled
-Roman hypocaust | roman-hypocaust-v3.mp4 | 2026-11-24 | scheduled
-Persian windcatcher | persian-windcatcher-v3.mp4 | 2026-11-25 | scheduled
-Inca terraces | inca-terraces-v3.mp4 | 2026-11-26 | scheduled
-Shaduf | shaduf-v3.mp4 | 2026-11-27 | scheduled
-Roman odometer | roman-odometer-v4.mp4 | 2026-11-28 | scheduled
-Nilometer | nilometer-v3.mp4 | 2026-11-29 | scheduled
-Stepwell | stepwell-v4.mp4 | 2026-11-30 | scheduled
-Polynesian wayfinding | polynesian-wayfinding-v3.mp4 | 2026-12-01 | scheduled
+Antikythera mechanism | antikythera-mechanism-v4.mp4 | 2026-11-16 | scheduled (Metricool 429364531, 18:00, thumbnail)
+Inca rope bridges | inca-rope-bridges-v2.mp4 | 2026-11-17 | scheduled (Metricool 429364972, 18:00, thumbnail)
+Zhang Heng seismoscope | zhang-heng-seismoscope-v3.mp4 | 2026-11-18 | scheduled (Metricool 429364984, 18:00, thumbnail)
+Viking navigation | viking-navigation-v3.mp4 | 2026-11-19 | scheduled (Metricool 429365000, 18:00, thumbnail)
+Heron temple doors | heron-temple-doors-v3.mp4 | 2026-11-20 | scheduled (Metricool 429365011, 18:00, thumbnail)
+Persian qanat | persian-qanat-v3.mp4 | 2026-11-21 | scheduled (Metricool 429365022, 18:00, thumbnail)
+Chinampas | chinampas-v3.mp4 | 2026-11-22 | scheduled (Metricool 429365571, 18:00, thumbnail)
+Elephant clock | elephant-clock-v3.mp4 | 2026-11-23 | scheduled (Metricool 429365592, 18:00, thumbnail)
+Roman hypocaust | roman-hypocaust-v3.mp4 | 2026-11-24 | scheduled (Metricool 429365613, 18:00, thumbnail)
+Persian windcatcher | persian-windcatcher-v3.mp4 | 2026-11-25 | scheduled (Metricool 429365629, 18:00, thumbnail)
+Inca terraces | inca-terraces-v3.mp4 | 2026-11-26 | scheduled (Metricool 429365647, 18:00, thumbnail)
+Shaduf | shaduf-v3.mp4 | 2026-11-27 | scheduled (Metricool 429365662, 18:00, thumbnail)
+Roman odometer | roman-odometer-v4.mp4 | 2026-11-28 | scheduled (Metricool 429366130, 18:00, thumbnail)
+Nilometer | nilometer-v3.mp4 | 2026-11-29 | scheduled (Metricool 429366152, 18:00, thumbnail)
+Stepwell | stepwell-v4.mp4 | 2026-11-30 | scheduled (Metricool 429366178, 18:00, thumbnail)
+Polynesian wayfinding | polynesian-wayfinding-v3.mp4 | 2026-12-01 | scheduled (Metricool 429366194, 18:00, thumbnail)
 Sticky-rice mortar | sticky-rice-mortar-v1.mp4 | 2026-12-02 | scheduled (Metricool 429366882, 18:00, thumbnail)
 Lycurgus Cup | lycurgus-cup-v1.mp4 | 2026-12-04 | scheduled (Metricool 429366895, 18:00, thumbnail)
 Dujiangyan | dujiangyan-v2.mp4 | 2026-12-07 | scheduled (Metricool 429366925, 18:00, thumbnail)
