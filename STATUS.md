@@ -5,7 +5,7 @@ Status values: rendered / awaiting check / approved / scheduled / posted. Times 
 
 Persian ice houses | persian-ice-houses-v3.mp4 | 2026-11-15 | scheduled
 Antikythera mechanism | antikythera-mechanism-v4.mp4 | 2026-11-16 | scheduled
-Inca rope bridges | inca-rope-bridges-v2.mp4 | 2026-11-17 | rendering
+Inca rope bridges | inca-rope-bridges-v2.mp4 | 2026-11-17 | awaiting check
 Zhang Heng seismoscope | zhang-heng-seismoscope-v3.mp4 | 2026-11-18 | scheduled
 Viking navigation | viking-navigation-v3.mp4 | 2026-11-19 | scheduled
 Heron temple doors | heron-temple-doors-v3.mp4 | 2026-11-20 | scheduled
