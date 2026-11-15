@@ -21,6 +21,7 @@ Nilometer | nilometer-v3.mp4 | 2026-11-29 | scheduled
 Stepwell | stepwell-v4.mp4 | 2026-11-30 | scheduled
 Polynesian wayfinding | polynesian-wayfinding-v3.mp4 | 2026-12-01 | scheduled
 Sticky-rice mortar | sticky-rice-mortar-v1.mp4 | 2026-12-02 | awaiting check
+Lycurgus Cup | lycurgus-cup-v1.mp4 | 2026-12-04 | awaiting check
 
 ## Notes (updated 15 Nov 11:10)
 - 15 Nov 10:45: user approved scheduling for 22-30 Nov. Scheduled in Metricool (IG, TikTok, YouTube, 18:00): chinampas 428699441 (new), elephant clock 428699465 (new), hypocaust 428699491, windcatcher 428699520, Inca terraces 428699546, shaduf 428699576, odometer v4 428699604, nilometer 428699640, stepwell v4 428699666.
@@ -29,3 +30,5 @@ Sticky-rice mortar | sticky-rice-mortar-v1.mp4 | 2026-12-02 | awaiting check
 - Antikythera 16 Nov post carries v4; Polynesian moved to 1 Dec (both 15 Nov).
 - Every file in out/ passed ffmpeg blackdetect. Nov remakes are 54-66 s; the 40-45 s rule applies from December.
 - sticky-rice-mortar-v1 (15 Nov 12:05): 42.2 s, 1080x1920, blackdetect clean. Hook "rice" at 1.6 s.
+- lycurgus-cup-v1 (15 Nov 12:35): 43.9 s, 1080x1920, blackdetect clean. Hook: cup turns red on "red" at 1.6 s.
+- dujiangyan-v1 rendered but NOT for posting (flood shots read as white water); v2 rendering.
