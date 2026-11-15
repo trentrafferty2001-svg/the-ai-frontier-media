@@ -35,7 +35,7 @@ Roman roads | roman-roads-v1.mp4 | 2026-12-28 | awaiting check
 Claw of Archimedes | claw-of-archimedes-v1.mp4 | 2026-12-30 | awaiting check
 Mohenjo-daro drains | mohenjo-daro-drains-v1.mp4 | 2027-01-01 | awaiting check
 Roman treadwheel crane | treadwheel-crane-v1.mp4 | 2027-01-04 | awaiting check
-Diolkos | diolkos-v1.mp4 | 2027-01-06 | rendering
+Diolkos | diolkos-v2.mp4 | 2027-01-06 | rendering
 Lighthouse of Alexandria | lighthouse-of-alexandria-v1.mp4 | 2027-01-08 | rendering
 Water organ (hydraulis) | water-organ-v1.mp4 | 2027-01-11 | rendering
 
@@ -66,3 +66,4 @@ Water organ (hydraulis) | water-organ-v1.mp4 | 2027-01-11 | rendering
 - mohenjo-daro-drains-v1 (15 Nov): 42.1 s, 1080x1920, blackdetect clean.
 - terracotta-army-v2 (15 Nov): 41.7 s, 1080x1920, blackdetect clean.
 - treadwheel-crane-v1 (15 Nov): 41.0 s, 1080x1920, blackdetect clean.
+- diolkos-v1 rendered but NOT for posting (stripe artifacts on the map land, canal far end cut off); v2 rendering.
