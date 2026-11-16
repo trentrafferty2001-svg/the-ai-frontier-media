@@ -49,3 +49,6 @@
 | How fireworks get their colours | out/explainer/fireworks-v2.mp4 | Thu 31 Dec 2026 | APPROVED 16 Nov, booking in Buffer as slots free |
 | How fireflies glow | out/explainer/fireflies-v2.mp4 | - | superseded by v3 (same video + topic cover card) |
 | How fireflies glow | out/explainer/fireflies-v3.mp4 | Wed 30 Dec 2026 | APPROVED 16 Nov, booking in Buffer as slots free |
+| How GPS knows where you are | out/explainer/gps-v2.mp4 | - | removed from Mon 7 Dec (16 Nov): duplicate of the 9 Nov GPS post |
+| Why the sky is blue | out/explainer/sky-blue-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
+| Why the sky is blue | out/explainer/sky-blue-v2.mp4 | Mon 7 Dec 2026 | awaiting approval (replaces GPS; QC passed: 42.6 s, no black frames, earshot 0 major) |
