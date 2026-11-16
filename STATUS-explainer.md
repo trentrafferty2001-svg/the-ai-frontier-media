@@ -32,3 +32,5 @@
 | How a chameleon changes colour | out/explainer/chameleon-v2.mp4 | Fri 18 Dec 2026 | awaiting approval (QC passed: 44.4 s, no black frames, earshot 0 major) |
 | How penguins survive the cold | out/explainer/penguins-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
 | How penguins survive the cold | out/explainer/penguins-v2.mp4 | Mon 21 Dec 2026 | awaiting approval (QC passed: 42.5 s, no black frames, earshot 0 major) |
+| How sharks sense electricity | out/explainer/sharks-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
+| How sharks sense electricity | out/explainer/sharks-v2.mp4 | Tue 22 Dec 2026 | awaiting approval (QC passed: 42.0 s, no black frames, earshot 0 major) |
