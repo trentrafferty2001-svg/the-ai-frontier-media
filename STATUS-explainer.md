@@ -24,3 +24,5 @@
 | How a jet engine works | out/explainer/jet-engine-v2.mp4 | Mon 14 Dec 2026 | awaiting approval (QC passed: 44.6 s, no black frames, earshot 0 major) |
 | How bees make honey | out/explainer/honey-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
 | How bees make honey | out/explainer/honey-v2.mp4 | Tue 15 Dec 2026 | awaiting approval (QC passed: 42.6 s, no black frames, earshot 0 major) |
+| Why volcanoes erupt | out/explainer/volcano-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
+| Why volcanoes erupt | out/explainer/volcano-v2.mp4 | Wed 16 Dec 2026 | awaiting approval (QC passed: 44.1 s, no black frames, earshot 0 major) |
