@@ -21,18 +21,18 @@
 | How lightning forms | out/explainer/lightning-v2.mp4 | - | superseded by v3 (same video + topic cover card) |
 | How lightning forms | out/explainer/lightning-v3.mp4 | Fri 11 Dec 2026 | APPROVED 16 Nov, booking in Buffer as slots free (QC passed: 44.75 s, no black frames, earshot 0 major) |
 | How a jet engine works | out/explainer/jet-engine-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
-| How a jet engine works | out/explainer/jet-engine-v2.mp4 | Mon 14 Dec 2026 | awaiting approval (QC passed: 44.6 s, no black frames, earshot 0 major) |
+| How a jet engine works | out/explainer/jet-engine-v2.mp4 | Mon 14 Dec 2026 | APPROVED 16 Nov, booking in Buffer as slots free (QC passed: 44.6 s, no black frames, earshot 0 major) |
 | How bees make honey | out/explainer/honey-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
-| How bees make honey | out/explainer/honey-v2.mp4 | Tue 15 Dec 2026 | awaiting approval (QC passed: 42.6 s, no black frames, earshot 0 major) |
+| How bees make honey | out/explainer/honey-v2.mp4 | Tue 15 Dec 2026 | APPROVED 16 Nov, booking in Buffer as slots free (QC passed: 42.6 s, no black frames, earshot 0 major) |
 | Why volcanoes erupt | out/explainer/volcano-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
-| Why volcanoes erupt | out/explainer/volcano-v2.mp4 | Wed 16 Dec 2026 | awaiting approval (QC passed: 44.1 s, no black frames, earshot 0 major) |
+| Why volcanoes erupt | out/explainer/volcano-v2.mp4 | Wed 16 Dec 2026 | APPROVED 16 Nov, booking in Buffer as slots free (QC passed: 44.1 s, no black frames, earshot 0 major) |
 | How a submarine dives | out/explainer/submarine-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
-| How a submarine dives | out/explainer/submarine-v2.mp4 | Thu 17 Dec 2026 | awaiting approval (QC passed: 42.6 s, no black frames, earshot 0 major) |
+| How a submarine dives | out/explainer/submarine-v2.mp4 | Thu 17 Dec 2026 | APPROVED 16 Nov, booking in Buffer as slots free (QC passed: 42.6 s, no black frames, earshot 0 major) |
 | How a chameleon changes colour | out/explainer/chameleon-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
-| How a chameleon changes colour | out/explainer/chameleon-v2.mp4 | Fri 18 Dec 2026 | awaiting approval (QC passed: 44.4 s, no black frames, earshot 0 major) |
+| How a chameleon changes colour | out/explainer/chameleon-v2.mp4 | Fri 18 Dec 2026 | APPROVED 16 Nov, booking in Buffer as slots free (QC passed: 44.4 s, no black frames, earshot 0 major) |
 | How penguins survive the cold | out/explainer/penguins-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
-| How penguins survive the cold | out/explainer/penguins-v2.mp4 | Mon 21 Dec 2026 | awaiting approval (QC passed: 42.5 s, no black frames, earshot 0 major) |
+| How penguins survive the cold | out/explainer/penguins-v2.mp4 | Mon 21 Dec 2026 | APPROVED 16 Nov, booking in Buffer as slots free (QC passed: 42.5 s, no black frames, earshot 0 major) |
 | How sharks sense electricity | out/explainer/sharks-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
-| How sharks sense electricity | out/explainer/sharks-v2.mp4 | Tue 22 Dec 2026 | awaiting approval (QC passed: 42.0 s, no black frames, earshot 0 major) |
+| How sharks sense electricity | out/explainer/sharks-v2.mp4 | Tue 22 Dec 2026 | APPROVED 16 Nov, booking in Buffer as slots free (QC passed: 42.0 s, no black frames, earshot 0 major) |
 | Why lifts can't free-fall | out/explainer/lifts-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
-| Why lifts can't free-fall | out/explainer/lifts-v2.mp4 | Wed 23 Dec 2026 | awaiting approval (QC passed: 43.7 s, no black frames, earshot 0 major) |
+| Why lifts can't free-fall | out/explainer/lifts-v2.mp4 | Wed 23 Dec 2026 | APPROVED 16 Nov, booking in Buffer as slots free (QC passed: 43.7 s, no black frames, earshot 0 major) |
