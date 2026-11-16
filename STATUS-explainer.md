@@ -20,3 +20,5 @@
 | How lightning forms | out/explainer/lightning-v1.mp4 | - | superseded: 30,000°C label touched the left frame edge |
 | How lightning forms | out/explainer/lightning-v2.mp4 | - | superseded by v3 (same video + topic cover card) |
 | How lightning forms | out/explainer/lightning-v3.mp4 | Fri 11 Dec 2026 | APPROVED 16 Nov, booking in Buffer as slots free (QC passed: 44.75 s, no black frames, earshot 0 major) |
+| How a jet engine works | out/explainer/jet-engine-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
+| How a jet engine works | out/explainer/jet-engine-v2.mp4 | Mon 14 Dec 2026 | awaiting approval (QC passed: 44.6 s, no black frames, earshot 0 major) |
