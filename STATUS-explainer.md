@@ -47,3 +47,5 @@
 | How fireflies glow | out/explainer/fireflies-v1.mp4 | - | superseded: "perfect sync" ending too dark; fireflies-v2 re-render with a stronger ending (cover card -> fireflies-v3) |
 | How fireworks get their colours | out/explainer/fireworks-v1.mp4 | - | superseded by v2 (same video + topic cover card); joined from the farm's chunks because the farm's publish step hung |
 | How fireworks get their colours | out/explainer/fireworks-v2.mp4 | Thu 31 Dec 2026 | awaiting approval (QC passed: 44.4 s, no black frames, earshot 0 major) |
+| How fireflies glow | out/explainer/fireflies-v2.mp4 | - | superseded by v3 (same video + topic cover card) |
+| How fireflies glow | out/explainer/fireflies-v3.mp4 | Wed 30 Dec 2026 | awaiting approval (QC passed: 44.5 s, no black frames, earshot 0 major; bright sync ending) |
