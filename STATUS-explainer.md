@@ -28,3 +28,5 @@
 | Why volcanoes erupt | out/explainer/volcano-v2.mp4 | Wed 16 Dec 2026 | awaiting approval (QC passed: 44.1 s, no black frames, earshot 0 major) |
 | How a submarine dives | out/explainer/submarine-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
 | How a submarine dives | out/explainer/submarine-v2.mp4 | Thu 17 Dec 2026 | awaiting approval (QC passed: 42.6 s, no black frames, earshot 0 major) |
+| How a chameleon changes colour | out/explainer/chameleon-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
+| How a chameleon changes colour | out/explainer/chameleon-v2.mp4 | Fri 18 Dec 2026 | awaiting approval (QC passed: 44.4 s, no black frames, earshot 0 major) |
