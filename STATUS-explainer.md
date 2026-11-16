@@ -43,4 +43,4 @@
 | How a hot air balloon flies | out/explainer/balloon-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
 | How a hot air balloon flies | out/explainer/balloon-v2.mp4 | Mon 28 Dec 2026 | APPROVED 16 Nov, booking in Buffer as slots free |
 | Why geysers erupt | out/explainer/geyser-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
-| Why geysers erupt | out/explainer/geyser-v2.mp4 | Tue 29 Dec 2026 | awaiting approval (QC passed: 43.5 s, no black frames, earshot 0 major) |
+| Why geysers erupt | out/explainer/geyser-v2.mp4 | Tue 29 Dec 2026 | APPROVED 16 Nov, booking in Buffer as slots free |
