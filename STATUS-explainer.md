@@ -36,3 +36,5 @@
 | How sharks sense electricity | out/explainer/sharks-v2.mp4 | Tue 22 Dec 2026 | APPROVED 16 Nov, booking in Buffer as slots free (QC passed: 42.0 s, no black frames, earshot 0 major) |
 | Why lifts can't free-fall | out/explainer/lifts-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
 | Why lifts can't free-fall | out/explainer/lifts-v2.mp4 | Wed 23 Dec 2026 | APPROVED 16 Nov, booking in Buffer as slots free (QC passed: 43.7 s, no black frames, earshot 0 major) |
+| How snowflakes get six arms | out/explainer/snowflakes-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
+| How snowflakes get six arms | out/explainer/snowflakes-v2.mp4 | Thu 24 Dec 2026 | awaiting approval (QC passed: 44.7 s, no black frames, earshot 0 major) |
