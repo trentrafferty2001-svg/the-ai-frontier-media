@@ -2,7 +2,7 @@
 
 | Topic | File | Post date | Status |
 |---|---|---|---|
-| Panama Canal locks | out/explainer/panama-canal-v4.mp4 (= panama-canal-v3 + topic cover card) | Mon 30 Nov 2026 | APPROVED 15 Nov; to schedule Mon 16 Nov when a Buffer slot frees |
+| Panama Canal locks | out/explainer/panama-canal-v4.mp4 (= panama-canal-v3 + topic cover card) | Mon 30 Nov 2026 | scheduled in Buffer 16 Nov (YouTube + TikTok, 17:00 SAST, AI label, cover thumbnail) |
 | Panama Canal locks | out/explainer/panama-canal-v2.mp4 | - | superseded by v3 (same picture, sound accents on cuts added) |
 | Panama Canal locks | panama-canal-v1 (old cut) | - | superseded; farm run stuck, never published |
 | Octopus three hearts | out/explainer/octopus-v3.mp4 (= octopus-v2 + topic cover card) | Tue 1 Dec 2026 | APPROVED 15 Nov, booking in Buffer as slots free (earshot launch-grade, no black frames, 41.75 s) |
