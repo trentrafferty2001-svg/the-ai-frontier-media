@@ -17,3 +17,4 @@
 | Hummingbirds hover | out/explainer/hummingbird-v1.mp4 | - | superseded: caption 'on the way back too' clipped at the frame edge |
 | Hummingbirds hover | out/explainer/hummingbird-v2.mp4 | - | superseded by v3 (same video + topic cover card) |
 | Hummingbirds hover | out/explainer/hummingbird-v3.mp4 | Thu 10 Dec 2026 | APPROVED 16 Nov, booking in Buffer as slots free (QC passed: 43.7 s, no black frames, earshot 0 major) |
+| How lightning forms | out/explainer/lightning-v1.mp4 | - | superseded: 30,000°C label touched the left frame edge; v2 rendering (Fri 11 Dec) |
