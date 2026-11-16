@@ -22,3 +22,5 @@
 | How lightning forms | out/explainer/lightning-v3.mp4 | Fri 11 Dec 2026 | APPROVED 16 Nov, booking in Buffer as slots free (QC passed: 44.75 s, no black frames, earshot 0 major) |
 | How a jet engine works | out/explainer/jet-engine-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
 | How a jet engine works | out/explainer/jet-engine-v2.mp4 | Mon 14 Dec 2026 | awaiting approval (QC passed: 44.6 s, no black frames, earshot 0 major) |
+| How bees make honey | out/explainer/honey-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
+| How bees make honey | out/explainer/honey-v2.mp4 | Tue 15 Dec 2026 | awaiting approval (QC passed: 42.6 s, no black frames, earshot 0 major) |
