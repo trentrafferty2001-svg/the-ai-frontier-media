@@ -40,3 +40,5 @@
 | How snowflakes get six arms | out/explainer/snowflakes-v2.mp4 | Thu 24 Dec 2026 | APPROVED 16 Nov, booking in Buffer as slots free (QC passed: 44.7 s, no black frames, earshot 0 major) |
 | How a Venus flytrap snaps shut | out/explainer/flytrap-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
 | How a Venus flytrap snaps shut | out/explainer/flytrap-v2.mp4 | Fri 25 Dec 2026 | awaiting approval (QC passed: 43.5 s, no black frames, earshot 0 major) |
+| How a hot air balloon flies | out/explainer/balloon-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
+| How a hot air balloon flies | out/explainer/balloon-v2.mp4 | Mon 28 Dec 2026 | awaiting approval (QC passed: 44.1 s, no black frames, earshot 0 major) |
