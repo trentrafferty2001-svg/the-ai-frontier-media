@@ -95,3 +95,5 @@
 | flytrap (detailed) | flytrap-detailed-v2.mp4 | Fri 25 Dec | detailed + cover card (thumbnail 42992 ms), awaiting approval |
 | balloon (detailed) | balloon-detailed-v1.mp4 | Mon 28 Dec | raw detailed render |
 | balloon (detailed) | balloon-detailed-v2.mp4 | Mon 28 Dec | detailed + cover card (thumbnail 43571 ms), awaiting approval |
+| geyser (detailed) | geyser-detailed-v1.mp4 | Tue 29 Dec | raw detailed render |
+| geyser (detailed) | geyser-detailed-v2.mp4 | Tue 29 Dec | detailed + cover card (thumbnail 43026 ms), awaiting approval |
