@@ -88,16 +88,16 @@
 | sharks (detailed) | sharks-detailed-v1.mp4 | Tue 22 Dec | raw detailed render |
 | sharks (detailed) | sharks-detailed-v2.mp4 | Tue 22 Dec | APPROVED 17 Nov, queued (replaces the earlier version for that date) |
 | lifts (detailed) | lifts-detailed-v1.mp4 | Wed 23 Dec | raw detailed render |
-| lifts (detailed) | lifts-detailed-v2.mp4 | Wed 23 Dec | detailed + cover card (thumbnail 43151 ms), awaiting approval |
+| lifts (detailed) | lifts-detailed-v2.mp4 | Wed 23 Dec | APPROVED 17 Nov, queued (replaces the earlier version for that date) |
 | snowflakes (detailed) | snowflakes-detailed-v1.mp4 | Thu 24 Dec | raw detailed render |
-| snowflakes (detailed) | snowflakes-detailed-v2.mp4 | Thu 24 Dec | detailed + cover card (thumbnail 44196 ms), awaiting approval |
+| snowflakes (detailed) | snowflakes-detailed-v2.mp4 | Thu 24 Dec | APPROVED 17 Nov, queued (replaces the earlier version for that date) |
 | flytrap (detailed) | flytrap-detailed-v1.mp4 | Fri 25 Dec | raw detailed render |
-| flytrap (detailed) | flytrap-detailed-v2.mp4 | Fri 25 Dec | detailed + cover card (thumbnail 42992 ms), awaiting approval |
+| flytrap (detailed) | flytrap-detailed-v2.mp4 | Fri 25 Dec | APPROVED 17 Nov, queued (replaces the earlier version for that date) |
 | balloon (detailed) | balloon-detailed-v1.mp4 | Mon 28 Dec | raw detailed render |
-| balloon (detailed) | balloon-detailed-v2.mp4 | Mon 28 Dec | detailed + cover card (thumbnail 43571 ms), awaiting approval |
+| balloon (detailed) | balloon-detailed-v2.mp4 | Mon 28 Dec | APPROVED 17 Nov, queued (replaces the earlier version for that date) |
 | geyser (detailed) | geyser-detailed-v1.mp4 | Tue 29 Dec | raw detailed render |
-| geyser (detailed) | geyser-detailed-v2.mp4 | Tue 29 Dec | detailed + cover card (thumbnail 43026 ms), awaiting approval |
+| geyser (detailed) | geyser-detailed-v2.mp4 | Tue 29 Dec | APPROVED 17 Nov, queued (replaces the earlier version for that date) |
 | fireflies (detailed) | fireflies-detailed-v1.mp4 | Wed 30 Dec | raw detailed render |
-| fireflies (detailed) | fireflies-detailed-v2.mp4 | Wed 30 Dec | detailed + cover card (thumbnail 43992 ms), awaiting approval |
+| fireflies (detailed) | fireflies-detailed-v2.mp4 | Wed 30 Dec | APPROVED 17 Nov, queued (replaces the earlier version for that date) |
 | fireworks (detailed) | fireworks-detailed-v1.mp4 | Thu 31 Dec | raw detailed render |
-| fireworks (detailed) | fireworks-detailed-v2.mp4 | Thu 31 Dec | detailed + cover card (thumbnail 43901 ms), awaiting approval |
+| fireworks (detailed) | fireworks-detailed-v2.mp4 | Thu 31 Dec | APPROVED 17 Nov, queued (replaces the earlier version for that date) |
