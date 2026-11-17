@@ -74,16 +74,16 @@
 | scab (detailed) | scab-detailed-v3.mp4 | Wed 9 Dec | raw detailed render |
 | scab (detailed) | scab-detailed-v4.mp4 | Wed 9 Dec | APPROVED 17 Nov, queued for 9 Dec (replaces scab-v2) |
 | jet engine (detailed) | jet-engine-detailed-v1.mp4 | Mon 14 Dec | raw detailed render |
-| jet engine (detailed) | jet-engine-detailed-v2.mp4 | Mon 14 Dec | detailed + cover card (thumbnail 44071 ms), awaiting approval |
+| jet engine (detailed) | jet-engine-detailed-v2.mp4 | Mon 14 Dec | APPROVED 17 Nov, queued (replaces the earlier version for that date) |
 | honey (detailed) | honey-detailed-v1.mp4 | Tue 15 Dec | raw detailed render |
-| honey (detailed) | honey-detailed-v2.mp4 | Tue 15 Dec | detailed + cover card (thumbnail 42105 ms), awaiting approval |
+| honey (detailed) | honey-detailed-v2.mp4 | Tue 15 Dec | APPROVED 17 Nov, queued (replaces the earlier version for that date) |
 | volcano (detailed) | volcano-detailed-v1.mp4 | Wed 16 Dec | raw detailed render |
-| volcano (detailed) | volcano-detailed-v2.mp4 | Wed 16 Dec | detailed + cover card (thumbnail 43571 ms), awaiting approval |
+| volcano (detailed) | volcano-detailed-v2.mp4 | Wed 16 Dec | APPROVED 17 Nov, queued (replaces the earlier version for that date) |
 | submarine (detailed) | submarine-detailed-v1.mp4 | Thu 17 Dec | raw detailed render |
-| submarine (detailed) | submarine-detailed-v2.mp4 | Thu 17 Dec | detailed + cover card (thumbnail 42105 ms), awaiting approval |
+| submarine (detailed) | submarine-detailed-v2.mp4 | Thu 17 Dec | APPROVED 17 Nov, queued (replaces the earlier version for that date) |
 | chameleon (detailed) | chameleon-detailed-v1.mp4 | Fri 18 Dec | raw detailed render |
-| chameleon (detailed) | chameleon-detailed-v2.mp4 | Fri 18 Dec | detailed + cover card (thumbnail 43855 ms), awaiting approval |
+| chameleon (detailed) | chameleon-detailed-v2.mp4 | Fri 18 Dec | APPROVED 17 Nov, queued (replaces the earlier version for that date) |
 | penguins (detailed) | penguins-detailed-v1.mp4 | Mon 21 Dec | raw detailed render |
-| penguins (detailed) | penguins-detailed-v2.mp4 | Mon 21 Dec | detailed + cover card (thumbnail 42026 ms), awaiting approval |
+| penguins (detailed) | penguins-detailed-v2.mp4 | Mon 21 Dec | APPROVED 17 Nov, queued (replaces the earlier version for that date) |
 | sharks (detailed) | sharks-detailed-v1.mp4 | Tue 22 Dec | raw detailed render |
-| sharks (detailed) | sharks-detailed-v2.mp4 | Tue 22 Dec | detailed + cover card (thumbnail 41492 ms), awaiting approval |
+| sharks (detailed) | sharks-detailed-v2.mp4 | Tue 22 Dec | APPROVED 17 Nov, queued (replaces the earlier version for that date) |
