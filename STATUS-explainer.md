@@ -87,3 +87,5 @@
 | penguins (detailed) | penguins-detailed-v2.mp4 | Mon 21 Dec | APPROVED 17 Nov, queued (replaces the earlier version for that date) |
 | sharks (detailed) | sharks-detailed-v1.mp4 | Tue 22 Dec | raw detailed render |
 | sharks (detailed) | sharks-detailed-v2.mp4 | Tue 22 Dec | APPROVED 17 Nov, queued (replaces the earlier version for that date) |
+| lifts (detailed) | lifts-detailed-v1.mp4 | Wed 23 Dec | raw detailed render |
+| lifts (detailed) | lifts-detailed-v2.mp4 | Wed 23 Dec | detailed + cover card (thumbnail 43151 ms), awaiting approval |
