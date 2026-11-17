@@ -91,3 +91,5 @@
 | lifts (detailed) | lifts-detailed-v2.mp4 | Wed 23 Dec | detailed + cover card (thumbnail 43151 ms), awaiting approval |
 | snowflakes (detailed) | snowflakes-detailed-v1.mp4 | Thu 24 Dec | raw detailed render |
 | snowflakes (detailed) | snowflakes-detailed-v2.mp4 | Thu 24 Dec | detailed + cover card (thumbnail 44196 ms), awaiting approval |
+| flytrap (detailed) | flytrap-detailed-v1.mp4 | Fri 25 Dec | raw detailed render |
+| flytrap (detailed) | flytrap-detailed-v2.mp4 | Fri 25 Dec | detailed + cover card (thumbnail 42992 ms), awaiting approval |
