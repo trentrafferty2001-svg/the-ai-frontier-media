@@ -58,3 +58,5 @@
 | How hummingbirds hover (DETAILED) | out/explainer/hummingbird-detailed-v4.mp4 | Thu 10 Dec 2026 | awaiting approval (detailed look; replaces hummingbird-v3 on approval; QC 43.7 s, 0 black, earshot 0 major) |
 | Octopus: three hearts, blue blood (DETAILED) | out/explainer/octopus-detailed-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
 | Octopus: three hearts, blue blood (DETAILED) | out/explainer/octopus-detailed-v2.mp4 | Tue 1 Dec 2026 | awaiting approval (detailed look; replaces octopus-v3 on approval; QC 41.75 s, 0 black, earshot 0 major) |
+| How your fridge pushes heat out (DETAILED) | out/explainer/fridge-detailed-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
+| How your fridge pushes heat out (DETAILED) | out/explainer/fridge-detailed-v2.mp4 | Wed 2 Dec 2026 | awaiting approval (detailed look; replaces fridge-v2 on approval; QC 43.75 s, 0 black, earshot 0 major) |
