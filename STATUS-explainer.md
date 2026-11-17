@@ -53,3 +53,4 @@
 | Why the sky is blue | out/explainer/sky-blue-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
 | Why the sky is blue | out/explainer/sky-blue-v2.mp4 | Mon 7 Dec 2026 | APPROVED 17 Nov, booking in Buffer as slots free (replaces GPS) |
 | How hummingbirds hover (DETAILED look sample, 17 Nov) | out/explainer/hummingbird-detailed-v1.mp4 | - | sample only, not queued (before/after for the user; go-ahead phrase "Go detailed from December") |
+| How hummingbirds hover (DETAILED look sample v2: + detailed background, 17 Nov) | out/explainer/hummingbird-detailed-v2.mp4 | - | sample only, not queued (go-ahead phrase "Go detailed from December") |
