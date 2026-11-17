@@ -79,3 +79,5 @@
 | honey (detailed) | honey-detailed-v2.mp4 | Tue 15 Dec | detailed + cover card (thumbnail 42105 ms), awaiting approval |
 | volcano (detailed) | volcano-detailed-v1.mp4 | Wed 16 Dec | raw detailed render |
 | volcano (detailed) | volcano-detailed-v2.mp4 | Wed 16 Dec | detailed + cover card (thumbnail 43571 ms), awaiting approval |
+| submarine (detailed) | submarine-detailed-v1.mp4 | Thu 17 Dec | raw detailed render |
+| submarine (detailed) | submarine-detailed-v2.mp4 | Thu 17 Dec | detailed + cover card (thumbnail 42105 ms), awaiting approval |
