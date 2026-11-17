@@ -60,3 +60,5 @@
 | Octopus: three hearts, blue blood (DETAILED) | out/explainer/octopus-detailed-v2.mp4 | Tue 1 Dec 2026 | awaiting approval (detailed look; replaces octopus-v3 on approval; QC 41.75 s, 0 black, earshot 0 major) |
 | How your fridge pushes heat out (DETAILED) | out/explainer/fridge-detailed-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
 | How your fridge pushes heat out (DETAILED) | out/explainer/fridge-detailed-v2.mp4 | Wed 2 Dec 2026 | awaiting approval (detailed look; replaces fridge-v2 on approval; QC 43.75 s, 0 black, earshot 0 major) |
+| How a tunnel boring machine eats through rock (DETAILED) | out/explainer/tunnel-boring-machine-detailed-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
+| How a tunnel boring machine eats through rock (DETAILED) | out/explainer/tunnel-boring-machine-detailed-v2.mp4 | Thu 3 Dec 2026 | awaiting approval (detailed look; replaces tunnel-boring-machine-v3 on approval; QC 41.6 s, 0 black, earshot 0 major) |
