@@ -68,3 +68,4 @@
 | Why the sky is blue (DETAILED) | out/explainer/sky-blue-detailed-v2.mp4 | Mon 7 Dec 2026 | awaiting approval (detailed look; replaces sky-blue-v2 on approval; QC 42.6 s, 0 black, earshot 0 major) |
 | How the Falkirk Wheel lifts boats (DETAILED) | out/explainer/falkirk-wheel-detailed-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
 | How the Falkirk Wheel lifts boats (DETAILED) | out/explainer/falkirk-wheel-detailed-v2.mp4 | Tue 8 Dec 2026 | awaiting approval (detailed look; replaces falkirk-wheel-v2 on approval; QC 43.3 s, 0 black, earshot 0 major) |
+| scab (detailed) | scab-detailed-v1.mp4 | Wed 9 Dec | superseded (pale ridged skin, needle hairs), re-render as scab-detailed-v3 |
