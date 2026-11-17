@@ -56,3 +56,5 @@
 | How hummingbirds hover (DETAILED look sample v2: + detailed background, 17 Nov) | out/explainer/hummingbird-detailed-v2.mp4 | - | sample only, not queued (go-ahead phrase "Go detailed from December") |
 | How hummingbirds hover (DETAILED) | out/explainer/hummingbird-detailed-v3.mp4 | - | superseded by v4 (same video + topic cover card) |
 | How hummingbirds hover (DETAILED) | out/explainer/hummingbird-detailed-v4.mp4 | Thu 10 Dec 2026 | awaiting approval (detailed look; replaces hummingbird-v3 on approval; QC 43.7 s, 0 black, earshot 0 major) |
+| Octopus: three hearts, blue blood (DETAILED) | out/explainer/octopus-detailed-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
+| Octopus: three hearts, blue blood (DETAILED) | out/explainer/octopus-detailed-v2.mp4 | Tue 1 Dec 2026 | awaiting approval (detailed look; replaces octopus-v3 on approval; QC 41.75 s, 0 black, earshot 0 major) |
