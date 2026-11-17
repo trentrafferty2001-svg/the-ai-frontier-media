@@ -81,3 +81,5 @@
 | volcano (detailed) | volcano-detailed-v2.mp4 | Wed 16 Dec | detailed + cover card (thumbnail 43571 ms), awaiting approval |
 | submarine (detailed) | submarine-detailed-v1.mp4 | Thu 17 Dec | raw detailed render |
 | submarine (detailed) | submarine-detailed-v2.mp4 | Thu 17 Dec | detailed + cover card (thumbnail 42105 ms), awaiting approval |
+| chameleon (detailed) | chameleon-detailed-v1.mp4 | Fri 18 Dec | raw detailed render |
+| chameleon (detailed) | chameleon-detailed-v2.mp4 | Fri 18 Dec | detailed + cover card (thumbnail 43855 ms), awaiting approval |
