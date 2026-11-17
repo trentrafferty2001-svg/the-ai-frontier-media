@@ -72,4 +72,4 @@
 | lightning (detailed) | lightning-detailed-v1.mp4 | Fri 11 Dec | raw detailed render (44.7 s, 0 black frames) |
 | lightning (detailed) | lightning-detailed-v2.mp4 | Fri 11 Dec | detailed + cover card (thumbnail 44196 ms), awaiting approval |
 | scab (detailed) | scab-detailed-v3.mp4 | Wed 9 Dec | raw detailed render |
-| scab (detailed) | scab-detailed-v4.mp4 | Wed 9 Dec | detailed + cover card (thumbnail 42867 ms), awaiting approval |
+| scab (detailed) | scab-detailed-v4.mp4 | Wed 9 Dec | APPROVED 17 Nov, queued for 9 Dec (replaces scab-v2) |
