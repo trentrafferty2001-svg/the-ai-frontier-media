@@ -55,21 +55,21 @@
 | How hummingbirds hover (DETAILED look sample, 17 Nov) | out/explainer/hummingbird-detailed-v1.mp4 | - | sample only, not queued (before/after for the user; go-ahead phrase "Go detailed from December") |
 | How hummingbirds hover (DETAILED look sample v2: + detailed background, 17 Nov) | out/explainer/hummingbird-detailed-v2.mp4 | - | sample only, not queued (go-ahead phrase "Go detailed from December") |
 | How hummingbirds hover (DETAILED) | out/explainer/hummingbird-detailed-v3.mp4 | - | superseded by v4 (same video + topic cover card) |
-| How hummingbirds hover (DETAILED) | out/explainer/hummingbird-detailed-v4.mp4 | Thu 10 Dec 2026 | awaiting approval (detailed look; replaces hummingbird-v3 on approval; QC 43.7 s, 0 black, earshot 0 major) |
+| How hummingbirds hover (DETAILED) | out/explainer/hummingbird-detailed-v4.mp4 | Thu 10 Dec 2026 | APPROVED 17 Nov, queued (replaces the earlier version for that date) |
 | Octopus: three hearts, blue blood (DETAILED) | out/explainer/octopus-detailed-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
-| Octopus: three hearts, blue blood (DETAILED) | out/explainer/octopus-detailed-v2.mp4 | Tue 1 Dec 2026 | awaiting approval (detailed look; replaces octopus-v3 on approval; QC 41.75 s, 0 black, earshot 0 major) |
+| Octopus: three hearts, blue blood (DETAILED) | out/explainer/octopus-detailed-v2.mp4 | Tue 1 Dec 2026 | APPROVED 17 Nov, queued (replaces the earlier version for that date) |
 | How your fridge pushes heat out (DETAILED) | out/explainer/fridge-detailed-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
-| How your fridge pushes heat out (DETAILED) | out/explainer/fridge-detailed-v2.mp4 | Wed 2 Dec 2026 | awaiting approval (detailed look; replaces fridge-v2 on approval; QC 43.75 s, 0 black, earshot 0 major) |
+| How your fridge pushes heat out (DETAILED) | out/explainer/fridge-detailed-v2.mp4 | Wed 2 Dec 2026 | APPROVED 17 Nov, queued (replaces the earlier version for that date) |
 | How a tunnel boring machine eats through rock (DETAILED) | out/explainer/tunnel-boring-machine-detailed-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
-| How a tunnel boring machine eats through rock (DETAILED) | out/explainer/tunnel-boring-machine-detailed-v2.mp4 | Thu 3 Dec 2026 | awaiting approval (detailed look; replaces tunnel-boring-machine-v3 on approval; QC 41.6 s, 0 black, earshot 0 major) |
+| How a tunnel boring machine eats through rock (DETAILED) | out/explainer/tunnel-boring-machine-detailed-v2.mp4 | Thu 3 Dec 2026 | APPROVED 17 Nov, queued (replaces the earlier version for that date) |
 | Why woodpeckers don't get concussions (DETAILED) | out/explainer/woodpecker-detailed-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
-| Why woodpeckers don't get concussions (DETAILED) | out/explainer/woodpecker-detailed-v2.mp4 | Fri 4 Dec 2026 | awaiting approval (detailed look; replaces woodpecker-v2 on approval; QC 43.2 s, 0 black, earshot 0 major) |
+| Why woodpeckers don't get concussions (DETAILED) | out/explainer/woodpecker-detailed-v2.mp4 | Fri 4 Dec 2026 | APPROVED 17 Nov, queued (replaces the earlier version for that date) |
 | Why the sky is blue (DETAILED) | out/explainer/sky-blue-detailed-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
-| Why the sky is blue (DETAILED) | out/explainer/sky-blue-detailed-v2.mp4 | Mon 7 Dec 2026 | awaiting approval (detailed look; replaces sky-blue-v2 on approval; QC 42.6 s, 0 black, earshot 0 major) |
+| Why the sky is blue (DETAILED) | out/explainer/sky-blue-detailed-v2.mp4 | Mon 7 Dec 2026 | APPROVED 17 Nov, queued (replaces the earlier version for that date) |
 | How the Falkirk Wheel lifts boats (DETAILED) | out/explainer/falkirk-wheel-detailed-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
-| How the Falkirk Wheel lifts boats (DETAILED) | out/explainer/falkirk-wheel-detailed-v2.mp4 | Tue 8 Dec 2026 | awaiting approval (detailed look; replaces falkirk-wheel-v2 on approval; QC 43.3 s, 0 black, earshot 0 major) |
+| How the Falkirk Wheel lifts boats (DETAILED) | out/explainer/falkirk-wheel-detailed-v2.mp4 | Tue 8 Dec 2026 | APPROVED 17 Nov, queued (replaces the earlier version for that date) |
 | scab (detailed) | scab-detailed-v1.mp4 | Wed 9 Dec | superseded (pale ridged skin, needle hairs), re-render as scab-detailed-v3 |
 | lightning (detailed) | lightning-detailed-v1.mp4 | Fri 11 Dec | raw detailed render (44.7 s, 0 black frames) |
-| lightning (detailed) | lightning-detailed-v2.mp4 | Fri 11 Dec | detailed + cover card (thumbnail 44196 ms), awaiting approval |
+| lightning (detailed) | lightning-detailed-v2.mp4 | Fri 11 Dec | APPROVED 17 Nov, queued (replaces the earlier version for that date) |
 | scab (detailed) | scab-detailed-v3.mp4 | Wed 9 Dec | raw detailed render |
 | scab (detailed) | scab-detailed-v4.mp4 | Wed 9 Dec | APPROVED 17 Nov, queued for 9 Dec (replaces scab-v2) |
