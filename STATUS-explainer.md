@@ -69,3 +69,5 @@
 | How the Falkirk Wheel lifts boats (DETAILED) | out/explainer/falkirk-wheel-detailed-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
 | How the Falkirk Wheel lifts boats (DETAILED) | out/explainer/falkirk-wheel-detailed-v2.mp4 | Tue 8 Dec 2026 | awaiting approval (detailed look; replaces falkirk-wheel-v2 on approval; QC 43.3 s, 0 black, earshot 0 major) |
 | scab (detailed) | scab-detailed-v1.mp4 | Wed 9 Dec | superseded (pale ridged skin, needle hairs), re-render as scab-detailed-v3 |
+| lightning (detailed) | lightning-detailed-v1.mp4 | Fri 11 Dec | raw detailed render (44.7 s, 0 black frames) |
+| lightning (detailed) | lightning-detailed-v2.mp4 | Fri 11 Dec | detailed + cover card (thumbnail 44196 ms), awaiting approval |
