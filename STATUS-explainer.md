@@ -85,3 +85,5 @@
 | chameleon (detailed) | chameleon-detailed-v2.mp4 | Fri 18 Dec | detailed + cover card (thumbnail 43855 ms), awaiting approval |
 | penguins (detailed) | penguins-detailed-v1.mp4 | Mon 21 Dec | raw detailed render |
 | penguins (detailed) | penguins-detailed-v2.mp4 | Mon 21 Dec | detailed + cover card (thumbnail 42026 ms), awaiting approval |
+| sharks (detailed) | sharks-detailed-v1.mp4 | Tue 22 Dec | raw detailed render |
+| sharks (detailed) | sharks-detailed-v2.mp4 | Tue 22 Dec | detailed + cover card (thumbnail 41492 ms), awaiting approval |
