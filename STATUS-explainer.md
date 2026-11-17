@@ -57,7 +57,7 @@
 | How hummingbirds hover (DETAILED) | out/explainer/hummingbird-detailed-v3.mp4 | - | superseded by v4 (same video + topic cover card) |
 | How hummingbirds hover (DETAILED) | out/explainer/hummingbird-detailed-v4.mp4 | Thu 10 Dec 2026 | APPROVED 17 Nov, queued (replaces the earlier version for that date) |
 | Octopus: three hearts, blue blood (DETAILED) | out/explainer/octopus-detailed-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
-| Octopus: three hearts, blue blood (DETAILED) | out/explainer/octopus-detailed-v2.mp4 | Tue 1 Dec 2026 | APPROVED 17 Nov, queued (replaces the earlier version for that date) |
+| Octopus: three hearts, blue blood (DETAILED) | out/explainer/octopus-detailed-v2.mp4 | Tue 1 Dec 2026 | scheduled in Buffer for Tue 1 Dec 17:00 SAST (YouTube 6afc8d09a166de7b3ec4d3ca, TikTok 6afc8d0aafa176f5999e3024) |
 | How your fridge pushes heat out (DETAILED) | out/explainer/fridge-detailed-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
 | How your fridge pushes heat out (DETAILED) | out/explainer/fridge-detailed-v2.mp4 | Wed 2 Dec 2026 | APPROVED 17 Nov, queued (replaces the earlier version for that date) |
 | How a tunnel boring machine eats through rock (DETAILED) | out/explainer/tunnel-boring-machine-detailed-v1.mp4 | - | superseded by v2 (same video + topic cover card) |
