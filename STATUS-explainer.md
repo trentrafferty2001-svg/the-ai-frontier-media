@@ -89,3 +89,5 @@
 | sharks (detailed) | sharks-detailed-v2.mp4 | Tue 22 Dec | APPROVED 17 Nov, queued (replaces the earlier version for that date) |
 | lifts (detailed) | lifts-detailed-v1.mp4 | Wed 23 Dec | raw detailed render |
 | lifts (detailed) | lifts-detailed-v2.mp4 | Wed 23 Dec | detailed + cover card (thumbnail 43151 ms), awaiting approval |
+| snowflakes (detailed) | snowflakes-detailed-v1.mp4 | Thu 24 Dec | raw detailed render |
+| snowflakes (detailed) | snowflakes-detailed-v2.mp4 | Thu 24 Dec | detailed + cover card (thumbnail 44196 ms), awaiting approval |
