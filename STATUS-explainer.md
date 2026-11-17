@@ -73,3 +73,5 @@
 | lightning (detailed) | lightning-detailed-v2.mp4 | Fri 11 Dec | APPROVED 17 Nov, queued (replaces the earlier version for that date) |
 | scab (detailed) | scab-detailed-v3.mp4 | Wed 9 Dec | raw detailed render |
 | scab (detailed) | scab-detailed-v4.mp4 | Wed 9 Dec | APPROVED 17 Nov, queued for 9 Dec (replaces scab-v2) |
+| jet engine (detailed) | jet-engine-detailed-v1.mp4 | Mon 14 Dec | raw detailed render |
+| jet engine (detailed) | jet-engine-detailed-v2.mp4 | Mon 14 Dec | detailed + cover card (thumbnail 44071 ms), awaiting approval |
