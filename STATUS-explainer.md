@@ -97,3 +97,5 @@
 | balloon (detailed) | balloon-detailed-v2.mp4 | Mon 28 Dec | detailed + cover card (thumbnail 43571 ms), awaiting approval |
 | geyser (detailed) | geyser-detailed-v1.mp4 | Tue 29 Dec | raw detailed render |
 | geyser (detailed) | geyser-detailed-v2.mp4 | Tue 29 Dec | detailed + cover card (thumbnail 43026 ms), awaiting approval |
+| fireflies (detailed) | fireflies-detailed-v1.mp4 | Wed 30 Dec | raw detailed render |
+| fireflies (detailed) | fireflies-detailed-v2.mp4 | Wed 30 Dec | detailed + cover card (thumbnail 43992 ms), awaiting approval |
