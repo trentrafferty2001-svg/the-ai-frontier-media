@@ -21,6 +21,7 @@ jobs:
       job: ${{ steps.p.outputs.job }}
       frames: ${{ steps.p.outputs.frames }}
       fps: ${{ steps.p.outputs.fps }}
+      jpeg: ${{ steps.p.outputs.jpeg }}
     steps:
       - uses: actions/checkout@v4
         with: {fetch-depth: 2}
@@ -34,6 +35,9 @@ jobs:
           echo "job=$JOB" >> "$GITHUB_OUTPUT"
           echo "frames=$(jq -r '.frames' job.json)" >> "$GITHUB_OUTPUT"
           echo "fps=$(jq -r '.fps // 24' job.json)" >> "$GITHUB_OUTPUT"
+          # frames leave the browser as JPEG at this quality (visually lossless at 98, far faster than PNG screenshots);
+          # "jpeg": 0 in job.json renders PNG frames as before
+          echo "jpeg=$(jq -r '.jpeg // 98' job.json)" >> "$GITHUB_OUTPUT"
   chunk:
     needs: plan
     runs-on: ubuntu-latest
@@ -60,6 +64,7 @@ jobs:
           A=$(( N * I / CHUNKS )); B=$(( N * (I + 1) / CHUNKS ))
           FROM=$(python3 -c "print($A/$F)"); TO=$(python3 -c "print($B/$F + 0.0001)")
           echo "frames $A..$B"
+          J=${{ needs.plan.outputs.jpeg }}; if [ "$J" != "0" ]; then export JPEG=$J; fi
           cd "$E" && GL=swiftshader RES=1080 CRF=10 PRESET=fast node render.mjs video "$GITHUB_WORKSPACE/part$(printf %02d "$I").mp4" "$F" "$FROM" "$TO"
       - uses: actions/upload-artifact@v4
         with: {name: 'part-${{ matrix.i }}', path: 'part*.mp4', retention-days: 2}
